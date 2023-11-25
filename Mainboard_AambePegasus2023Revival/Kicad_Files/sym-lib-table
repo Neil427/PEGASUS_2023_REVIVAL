@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PegasusLIB")(type "Legacy")(uri "C:/Users/User/Documents/Kicad/PegasusLIB/Aamber.lib")(options "")(descr ""))
+  (lib (name "Pegasus2023-rescue")(type "KiCad")(uri "${KIPRJMOD}/Pegasus2023-rescue.kicad_sym")(options "")(descr ""))
+)
