@@ -1,4 +1,7 @@
 # PEGASUS_2023_REVIVAL
+![AamberPegasus6809](https://github.com/Neil427/PEGASUS_2023_REVIVAL/assets/67580691/e8e0ff9c-03bd-4ccc-b3fb-7b80d8bbb430)
+
+
 This is a reproduction of the first computer I owned back in 1981
 After many years and house moves I now dont know whatever happened to it, it may have been sold or dumped, I have no idea.
 
