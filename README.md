@@ -18,7 +18,6 @@ There was one minor problem I found which must have occured on the original Pega
 Now I had a working Pegasus all I needed was a keyboard. The manual doesnt have the keyboard schematic so this was a lot of work systematically producing key closures and seeing what character they produced!  The first pcb mostly worked, a few of the non printing keys were wrong, so it took another board to correct these. I havent found any errors yet with the current board.  You cant buy cheap Chinese keycaps exactly the same as the old Pegasus keyboard so I have found a set with logical alternatives (i.e."END" for the Break key etc.), you could of course print some stickers with the correct name.
 The keyboard has a 34-pin IDC connector as I am going to use it with another board I am working on. For use on the Pegasus main board the "even" side of the idc connector (pins 2-----32) plug into the SIL connector on the main board, alternatively a 16-pin SIL header can be inserted in keyboard pcb connector positions 2-----32 to allow use of SIL connectors as in the original Pegasus.  There are two unused LEDs on the Keyboard pcb intended for use as Power On and Cassette Data, these appear on the 34-pin connector but are not brought out on the main board.
 
-I will update this later after uploading all the design files.
 
 Neil
 
