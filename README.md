@@ -11,9 +11,11 @@ The discovery of the Eprom files and manual with schematics gave me the idea of 
 Searching found a huge repository on github of Aamber Pegasus software and information (github/Neoncluster/Aamber-Pegasus-remake), the information is a great recource and thanks to Neoncluster for preserving it. 
 
 It looked like this remake was not completed so I decided to start from scratch from the original Pegasus schematics.
-I drew the original schematics from the Pegasus manual into Kicad (thanks to Neoncluster for your Kicad Library), finding a few errors in the original documentation which I could verify on the blank PCB. Then started a new Kicad project for the new PCB, I added in the video jitter mods that were done to correct problems with the original Pegasus video design one of which was designed by Gavin back in the 80s. 
-I added a 16K Eprom to the board so as to be able to have the three Xbasic eproms on board without having to have the expansion board that I used back in 1981, there is also a switch to select two halves of a 32K eprom giving the equivalent of 8 original 4K eproms. 
+I drew the original schematics from the Pegasus manual into Kicad (thanks to Neoncluster for your Kicad Library), finding a few errors in the original documentation which I could verify on the blank PCB. Then started a new Kicad project for the new PCB, I added in the video jitter mods that were done to correct problems with the original Pegasus video design one of which was designed by Gavin back in the 80s.   NOTE: These jitter mds require the use of MON23a monitor eprom.
+
+I have added a 16K Eprom to the board so as to be able to have the three Xbasic eproms on board without needing an expansion board like I used back in 1981, there is also a switch to select two halves of a 32K eprom giving the equivalent of 8 original 4K eproms. 
 Also added are option jumpers for the three TMS2532 eprom sockets to allow selection of either TMS2532 or TMS2732 eproms as the TMS2532 is not easy to find these days, and a LED for tape data indication. 
+
 All ICs used are the original ones as in the original pegasus bom, the 74LS logic chips are still available and most of the rareish chips were available on Ebay and other places. The only expensive (read very rare) one was the MCM66710 character generator which I found on Ebay only.
 
 Amazingly it worked first time! All the hours of tracing out what I thought were errors in the original schematic had paid off. 
