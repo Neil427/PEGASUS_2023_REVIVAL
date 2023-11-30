@@ -26,10 +26,11 @@ The keyboard has a 34-pin IDC connector as I am going to use it with another boa
 There are two unused LEDs on the Keyboard pcb intended for use as Power On and Cassette Data, these appear on the 34-pin connector but are not brought out on the main board.
 
 
-NOTES:
+NOTES/ISSUES:
 - The resistor on the rear of the pcb is a pullup on the bit7 input to the video output shift register (not in the original Pegasus design) to try and remove a small video disturbance at the top of the screen before the first video character line when in graphics mode.
-- The 127p capacitor on the dotclock oscillator can be adjusted to trim the dotclock frequency.
+- The 127p capacitor on the dotclock oscillator can be adjusted to trim the dotclock frequency. 
 - The PCB although the same dimension as the original cant be slid into the original Pegasus square white case as I inadvertently laid the power tracks too close to the dge of the pcb!
+- The resistor footprint used is a bit large, needs reducing if producing a update to the board.
   
 
 
