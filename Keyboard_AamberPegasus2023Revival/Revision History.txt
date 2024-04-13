@@ -2,3 +2,4 @@ V1.0 	- Development version with only alpha-numeric switches routed
 V1.1 	- First production version
 V1.2 	- Spacebar moved to row 7 as original Pegasus KB(works in row 5 as well as in V1.1)
 	- Swapped ESC and BREAK keys, they were inadvertently swapped in V1.1
+	- Added unused Repeat Key and 2x unused extra keys
