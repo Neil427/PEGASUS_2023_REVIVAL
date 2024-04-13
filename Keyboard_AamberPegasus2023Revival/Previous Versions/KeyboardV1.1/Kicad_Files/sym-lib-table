@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name PegasusLIB)(type Legacy)(uri C:/Users/User/Documents/Kicad/PegasusLIB/Aamber.lib)(options "")(descr ""))
+  (lib (name Pegasus2023-rescue)(type Legacy)(uri ${KIPRJMOD}/Pegasus2023-rescue.lib)(options "")(descr ""))
+)
