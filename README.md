@@ -36,9 +36,9 @@ Needs further investigation and maybe a "improved" design board to be produced a
   
 Here are some phtos of the finished "Pegasus"
 
-![AamberPegasus1](https://github.com/user-attachments/assets/ee8e4c3a-00ed-4e52-9f55-4bb676f7c3f3)
+![AamberPegasus1](https://github.com/user-attachments/assets/7e54254b-9c8f-4274-86ae-d5b6e0a28aba)
 
-![AamberPegasus2](https://github.com/user-attachments/assets/4dcb14b5-e789-4363-8aa2-9c30f81ba599)
+![AamberPegasus2](https://github.com/user-attachments/assets/0a8546ea-f230-4697-9453-a89bf00b0e5a)
 
 
 
